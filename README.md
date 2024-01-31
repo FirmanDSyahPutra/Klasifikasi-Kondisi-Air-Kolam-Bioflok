@@ -9,3 +9,8 @@ Proyek ini bertujuan untuk mengembangkan model klasifikasi kondisi air pada kola
 3. Visualisasi Decision Tree: Visualisasi pohon keputusan untuk memahami logika klasifikasi.
 4. Evaluasi Model: Penilaian kinerja model menggunakan metrik yang relevan seperti akurasi, presisi, recall, dan F1-score.
 5. Pengujian Model: Mengetahui seberapa akurat hasil klasifikasi model yang telah dibuat dengan dataset baru.
+
+## Kesimpulan:
+Hasil evaluasi Model menunjukkan nilai *accuracy* sebesar 99.7%, nilai *precision* sebesar 97.9%, nilai *recall* sebesar 99.8% dan nilai *f1-score* sebesar 98.8% yang membuat model tersebut bisa dikatakan baik untuk melakukan klasifikasi.
+
+
