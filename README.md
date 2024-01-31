@@ -11,6 +11,6 @@ Proyek ini bertujuan untuk mengembangkan model klasifikasi kondisi air pada kola
 5. Pengujian Model: Mengetahui seberapa akurat hasil klasifikasi model yang telah dibuat dengan dataset baru.
 
 ## Kesimpulan:
-Hasil evaluasi Model menunjukkan nilai *accuracy* sebesar 99.7%, nilai *precision* sebesar 97.9%, nilai *recall* sebesar 99.8% dan nilai *F1-score* sebesar 98.8% yang membuat model tersebut bisa dikatakan baik untuk melakukan klasifikasi.
+Hasil evaluasi Model menunjukkan nilai *accuracy* sebesar 99.7%, nilai *precision* sebesar 97.9%, nilai *recall* sebesar 99.8% dan nilai *F1-score* sebesar 98.8% yang membuat model tersebut dikatakan baik untuk melakukan klasifikasi.
 
 
